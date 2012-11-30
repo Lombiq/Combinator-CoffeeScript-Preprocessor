@@ -83,6 +83,13 @@
       <Project>{9916839c-39fc-4ceb-a5af-89ca7e87119f}</Project>
       <Name>Orchard.Core</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Piedone.Combinator\Piedone.Combinator.csproj">
+      <Project>{c2f88c61-ed65-400a-aaa3-12518108eb8d}</Project>
+      <Name>Piedone.Combinator</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CoffeeScriptPreprocessor.cs" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
