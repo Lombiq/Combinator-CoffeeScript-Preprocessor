@@ -1,0 +1,13 @@
+﻿Name: Combinator CoffeeScript Preprocessor
+AntiForgery: enabled
+Author: Piedone
+Website: http://combinatorcoffee.codeplex.com
+Version: 1.0
+OrchardVersion: 1.6
+Description: CoffeeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Uses CoffeeSharp (http://tomlokhorst.github.com/CoffeeSharp/).
+Features:
+    Piedone.Combinator.CoffeeScript:
+		Name: Combinator CoffeeScript Preprocessor
+        Description: CoffeeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Uses CoffeeSharp (http://tomlokhorst.github.com/CoffeeSharp/).
+		Category: Performance
+		Dependencies: Piedone.Combinator
