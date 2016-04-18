@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Piedone
 Website: https://github.com/Lombiq/Combinator-CoffeeScript-Preprocessor
 Version: 1.0
-OrchardVersion: 1.9.2
+OrchardVersion: 1.9.3
 Description: CoffeeScript preprocessor for the Combinator Orchard module (https://combinator.codeplex.com/). Uses CoffeeSharp (http://tomlokhorst.github.com/CoffeeSharp/).
 Features:
     Piedone.Combinator.CoffeeScript:
